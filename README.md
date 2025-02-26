@@ -1,7 +1,7 @@
 # Hi there, I'm Zsombor Nagy! 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-NagyZsombor0501-%23181717?style=flat-square&logo=github)](https://github.com/NagyZsombor0501)
-[![Email](https://img.shields.io/badge/Email-nagyzsombor0501%40example.com-%23D14836?style=flat-square&logo=gmail)](mailto:nagy.zsombor0501@gmail.com) *(Replace with your email)*
+[![Email](https://img.shields.io/badge/Email-nagyzsombor0501%40example.com-%23D14836?style=flat-square&logo=gmail)](mailto:nagy.zsombor0501@gmail.com) 
 
 ---
 
