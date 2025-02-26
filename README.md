@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there, I'm Zsombor Nagy! 👋
 
-<!--
-**NagyZsombor0501/NagyZsombor0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-NagyZsombor0501-%23181717?style=flat-square&logo=github)](https://github.com/NagyZsombor0501)
+[![Email](https://img.shields.io/badge/Email-nagyzsombor0501%40example.com-%23D14836?style=flat-square&logo=gmail)](mailto:nagy.zsombor0501@gmail.com) *(Replace with your email)*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a passionate developer who loves to build cool things with code. Whether it's solving complex problems or creating user-friendly applications, I enjoy every step of the process. I'm always eager to learn new technologies and collaborate with others to create impactful projects.
+
+---
+
+### 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+
+*(Add or remove badges based on your skills and tools)*
+
+---
+
+### 🚀 Projects
+
+Here are some of the projects I'm proud of:
+
+- **[Project Name 1](https://github.com/NagyZsombor0501/project1)** - A brief description of the project.
+- **[Project Name 2](https://github.com/NagyZsombor0501/project2)** - Another brief description.
+- **[Project Name 3](https://github.com/NagyZsombor0501/project3)** - Yet another awesome project.
+
+*(Replace with your actual projects and links)*
+
+---
+
+### 📈 GitHub Stats
+
+![NagyZsombor0501's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagyZsombor0501&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagyZsombor0501&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me:
+
+- **Email:** [nagyzsombor0501@example.com](mailto:nagyzsombor0501@example.com) *(Replace with your email)*
+
+---
+
+### ⭐️ Fun Fact
+
+When I'm not coding, I enjoy hiking, gaming. Life is all about balance! 😄
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NagyZsombor0501&label=Profile%20views&color=0e75b6&style=flat" alt="NagyZsombor0501" />
+</p>
