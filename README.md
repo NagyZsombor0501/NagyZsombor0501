@@ -22,23 +22,10 @@ Here are some of the technologies and tools I work with:
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
-
-*(Add or remove badges based on your skills and tools)*
 
 ---
 
-### 🚀 Projects
 
-Here are some of the projects I'm proud of:
-
-- **[Project Name 1](https://github.com/NagyZsombor0501/project1)** - A brief description of the project.
-- **[Project Name 2](https://github.com/NagyZsombor0501/project2)** - Another brief description.
-- **[Project Name 3](https://github.com/NagyZsombor0501/project3)** - Yet another awesome project.
-
-*(Replace with your actual projects and links)*
-
----
 
 ### 📈 GitHub Stats
 
