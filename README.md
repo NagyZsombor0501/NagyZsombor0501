@@ -39,7 +39,7 @@ Here are some of the technologies and tools I work with:
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me:
 
-- **Email:** [nagyzsombor0501@example.com](mailto:nagyzsombor0501@gmail.com) 
+- **Email:** [nagyzsombor0501@gmail.com](mailto:nagyzsombor0501@gmail.com) 
 
 ---
 
